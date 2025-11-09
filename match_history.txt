@@ -1,0 +1,4 @@
+2025-11-08 23:25:37 | Team: Barcelona | Result: 2-0 | WIN
+2025-11-09 10:00:22 | Team: Manchester United | Result: 1-0 | GOLDEN GOAL WIN
+2025-11-09 10:44:17 | Team: Barcelona | Result: 0-1 | GOLDEN GOAL LOSS
+2025-11-09 10:54:53 | Team: Real Madrid | Result: 1-0 | WIN
